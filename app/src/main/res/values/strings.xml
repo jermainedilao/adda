@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ADDA</string>
+    <string name="adda_notification_description">ADDA Anti-Distracted Driving App: Drive safe mode is ON. Muted ringer. Blocking incoming calls</string>
+    <string name="turn_adda_mode_off">Turn OFF safe driving mode</string>
+    <string name="okay">Okay</string>
+    <string name="do_not_disturb_access_message">Please allow ADDA "Do Not Disturb Access"</string>
+
+    <string name="where_is_daddy">\"Where is daddy?\"</string>
+    <string name="its_not_just_about_me">It\'s not just about me.</string>
+    <string name="thats_why_i_drive_safely">That\'s why I drive safely.</string>
+
+    <string name="main_screen_message">Even using your phone while waiting at a traffic light is already a violation of RA 10913(Anti-Distracted Driving Act) and is punishable with up to 30,000 pesos in fines.</string>
+
+    <string name="press_to_turn_on_safe_driving_mode">Press to turn ON safe driving mode</string>
+
+    <string name="you_are_a_responsible_drive">You are a \n responsible driver.</string>
+    <string name="drive_safely">Drive safely!</string>
+    <string name="muted_ringer">Muted ringer</string>
+    <string name="block_incoming_calls">Block incoming calls</string>
+    <string name="auto_sms_reply_to_incoming_calls">Auto SMS reply to incoming calls</string>
+    <string name="adda_sms_message">Sorry. I can\'t answer right now. I\'m driving and complying with RA 10913(Anti-Distracted Driving Act). Sent using ADDA Android App https://goo.gl/3kiVD2</string>
+    <string name="press_to_turn_off_safe_driving_mode">Press to turn OFF safe driving mode</string>
+</resources>
